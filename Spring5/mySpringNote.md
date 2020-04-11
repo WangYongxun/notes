@@ -155,3 +155,4 @@ public class Student {
 + @Nullable：如果字段标注了这个注解贼说明这个字段可以被装配为null
 + @Resource：用在bean类的对象上，通过先名字后类型自动装配
 + @Component：用在bean类定义的地方，说明这个类已经被Spring管理，可以被配置文件扫描到
+
